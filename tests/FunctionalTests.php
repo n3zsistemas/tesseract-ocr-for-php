@@ -1,4 +1,5 @@
 <?php
+
 /**
  * End-to-end tests, just to get a feeling of how a real user would interact
  * with this library.
